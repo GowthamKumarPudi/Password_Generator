@@ -1,2 +1,2 @@
-# Password_Generator
+# Password Generator
 Motion Cut Internship Projects
