@@ -14,5 +14,5 @@ Requirements:
  Pro Tips:
 - Research best practices for password security.
 - Utilize Python's random library for generating random characters.
-- Provide clear user instructions within your script. 
+- Provide clear user instructions within your script.  
 
